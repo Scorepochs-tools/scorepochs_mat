@@ -1,4 +1,4 @@
-# scorEpochs
+# scorEpochs - MATLAB version
 
 scorEpochs: a computer aided scoring tool for resting-state M/EEG epochs
 
